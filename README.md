@@ -1,10 +1,5 @@
 <h3 align="center">山有木兮木有枝,心悦君兮君不知</h3>
 
-#    
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xinsin-star&show_icons=true">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinsin-star&layout=compact&langs_count=8&theme=tokyonight&hide_title=true">
-
 #
 
 ## ✨ HI, 很高兴认识你！
