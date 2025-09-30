@@ -3,7 +3,7 @@
 #
 
 ## ✨ HI, 很高兴认识你！
-这里是xinsin啦,会写一点点代码,余生还很长,欢迎各位多多指教呀!!
+这里是xinsin,会写一点点代码,余生还很长,欢迎各位多多指教呀!!
 
 # 
 
@@ -23,7 +23,6 @@
 
 ### 工具
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-yellow?style=for-the-badge&logo=Google-chrome&logoColor=white)
