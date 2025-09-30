@@ -9,7 +9,7 @@
 
 ## 💕 喜欢
 
-### 语言和工具库
+### 语言
 ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=iconjar&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=336e9d&logo=Python&logoColor=ffffff&label=)
